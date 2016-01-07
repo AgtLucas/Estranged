@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/Estranged/issues"
   },
-  "homepage": "https://github.com/AgtLucas/Estranged#readme"
+  "homepage": "https://github.com/AgtLucas/Estranged#readme",
+  "devDependencies": {
+    "babel-cli": "^6.4.0"
+  }
 }
